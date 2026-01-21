@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Birdie';
-  src: url('https://raw.githubusercontent.com/jadehypnobirthing/brevo-fonts/main/TAYBirdie.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/jadehypnobirthing/brevo-fonts@main/TAYBirdie.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
